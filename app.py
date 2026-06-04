@@ -3,7 +3,7 @@ import gradio as gr
 from groq import Groq
 
 # ---------------- AI Client ---------------- #
-GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+GROQ_API_KEY = st.secrets["GROQ_API_KEY"]
 
 client = Groq(api_key=GROQ_API_KEY)
 MODEL_NAME = "llama-3.3-70b-versatile"
