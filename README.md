@@ -6,7 +6,7 @@ An AI-powered travel planning web app built with **Streamlit** and **Groq (LLaMA
 
 ## 🚀 Live Demo
 
-[![Streamlit App](https://f47m86qxhgba3yqmchdtxh.streamlit.app/)
+[![Streamlit App] (https://f47m86qxhgba3yqmchdtxh.streamlit.app/)
 
 ---
 
